@@ -32,13 +32,13 @@
 - '`esc`' - pause
 - '`enter`' - to choose
 
-# Movement 1st player's:
+# Movement's 1st player:
 - '`up`' - up
 - '`down`' - down
 - '`left`' - left
 - '`right`' - righ
 
-# Movement 2st player's:
+# Movement's 2st player:
 - '`W`' - up
 - '`S`' - down
 - '`A`' - left
