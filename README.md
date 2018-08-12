@@ -6,9 +6,7 @@
 - vholovin
 - vsydorch
 
-<img align="center" src="screenshots/menu.png" width="100%" />
 <img align="center" src="screenshots/game.png" width="100%" />
-
 
 # Features:
 - C++ + Dynamic Libraries
